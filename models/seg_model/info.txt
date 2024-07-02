@@ -1,0 +1,1 @@
+Place your body composition segmentation model in this folder.

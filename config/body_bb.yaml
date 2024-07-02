@@ -1,0 +1,14 @@
+experiment_name: body_bb_det
+
+aug: True
+
+batch_size: 128
+
+lr: 0.002
+weight_decay: 0.0001
+max_epochs: 300
+lambda: 0
+
+early_stopping_enabled: True
+enable_early_stop_after_num_epochs: 100
+max_epochs_no_improve: 10
