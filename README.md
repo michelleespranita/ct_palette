@@ -5,7 +5,7 @@ This is the official PyTorch implementation of CT-Palette (accepted at MICCAI 20
 [![Preprint](https://img.shields.io/badge/arXiv-2303.07125-b31b1b)](https://arxiv.org/abs/2406.04769)
 
 > **Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images (accepted at MICCAI 2024)** <br>
-> Michelle Espranita Liman, Daniel Rueckert, Florian J. Fintelmann, Philip Müller <br>
+> Michelle Espranita Liman, Daniel Rueckert, Florian J. Fintelmann †, Philip Müller † <br>
 
 <p align="center">
 <img src="img/ct_palette.png" width=80% height=80%
