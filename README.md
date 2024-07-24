@@ -57,7 +57,7 @@ CT-Palette is a field-of-view (FOV) extension module that given a FOV-truncated 
 
 1. Create a new Conda environment:
     ```
-    conda create -n ct_palette python=3.11
+    conda create -n ct_palette python=3.10
     ```
 
 2. Activate the environment and install the required packages:
